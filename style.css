@@ -33,3 +33,22 @@ body{
   height: 18px
   border-radius: 5px;
   background: #DFDFDF;
+  outline:none;
+  opacity:0.7;
+}
+.button-cta{
+ height: 40px;
+ margin:top: 40px;
+ background-color:#3EB72B;
+ border:0;
+ border-radius: 4px;
+ color: #FFF;
+ font-size: 20px;
+ font-weight: pointer;
+.container-password{
+ max-width: 480px;
+ margin: 14px 0;
+ display: flex;
+ flex-direction: columm;
+ align-items: center
+  
